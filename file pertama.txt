@@ -1,0 +1,9 @@
+Rincian materi pelatihan 
+1. HTML dam CSS
+2. JS
+3. Githup
+4. PHP
+5. MysQl
+6. PHP dan MysQl
+7. Laravel
+8. Rest API
